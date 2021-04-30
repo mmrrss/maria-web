@@ -33,7 +33,7 @@
   </head>
   <body>
   <div id="title">
-  <div align="center"><marquee id="ejemplo" direction="up"><h1>THE WEBSITE</h1 height="200" width="100"></marquee><a href="javascript:void(0);" ></a></div>
+  <h1>THE WEBSITE</h1 height="200" width="100">
   <SCRIPT LANGUAGE="JavaScript">var txt=" THE WEBSITE";var espera=140;var refresco=null;function rotulo_title() {document.title=txt;txt=txt.substring(1,txt.length)+txt.charAt(0);refresco=setTimeout("rotulo_title()",espera);}rotulo_title();</script>	
   </div>
   <div id="texto">
@@ -45,7 +45,7 @@
 <td style="border: 5px solid #F7FF00; padding: 20px; width: 180px;"><div class="menu"><a href="Internet-Security.html">Internet Security</a></div></td>
 <td style="border: 5px solid #F7FF00; padding: 20px; width: 180px;"><div class="menu"><a href="Object-oriented-vs-structured-programming.html">Object oriented vs structured programming</a></div></td>
 </tr>
-</tbody></table>
+</table>
   <div id="pie">
     <div class="col_pie">
       <h4>More information</h4>
