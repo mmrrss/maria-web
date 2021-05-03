@@ -33,8 +33,7 @@
   </head>
   <body>
   <div id="title">
-  <h1>THE WEBSITE</h1 height="200" width="100">
-  <SCRIPT LANGUAGE="JavaScript">var txt=" THE WEBSITE";var espera=140;var refresco=null;function rotulo_title() {document.title=txt;txt=txt.substring(1,txt.length)+txt.charAt(0);refresco=setTimeout("rotulo_title()",espera);}rotulo_title();</script>	
+    <h1><strong>THE WEBSIDE</strong></h1>  
   </div>
   <div id="texto">
     <h3>Hello and welcome to this website where we will talk about programming and much more.</h3>
@@ -45,7 +44,7 @@
 <td style="border: 5px solid #F7FF00; padding: 20px; width: 180px;"><div class="menu"><a href="Internet-Security.html">Internet Security</a></div></td>
 <td style="border: 5px solid #F7FF00; padding: 20px; width: 180px;"><div class="menu"><a href="Object-oriented-vs-structured-programming.html">Object oriented vs structured programming</a></div></td>
 </tr>
-</table>
+</tbody></table>
   <div id="pie">
     <div class="col_pie">
       <h4>More information</h4>
